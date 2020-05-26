@@ -9,9 +9,44 @@ Das Projekt coli-conc sammelt Konkordanzen zwischen Erschließungssystemen wie R
 * Projekt coli-conc (https://coli-conc.gbv.de/)
   * Bibliotheksklassifikationen und andere Erschließungssysteme
      * Universalklassifikationen (RVK, DDC, BK, Sachgruppen der DNB, Thema-Klassifikation...)
-     * Kleinere Universalklassifikationen 
      * Haussystematiken (Bremer Systematik, Systematik der UB Bielefeld...)
      * Fachsystematiken (MSC, 
+     * GND
      * Wikidata als Universeller Wissensgraph
   * Sammlung von Konkordanzen (Bestandsaufnahme)
   * Infrastruktur zur Erstellung und Pflege von Mappings
+
+## Beispiele
+
+* RVK-DDC
+* Haussystematik, Bielefeld, Bremer oder Thema-Klassifikation der DNB
+* Wikidata
+
+## Features
+
+* Was schon vorhanden ist (Suche)
+* Repositories (Lokale Storage abschalten)
+* Login-System
+
+## Fragen
+
+* Import- und Export:
+ * Nur über uns oder eigene Instanz/Server (Bielefeld)
+ * Export: APIs zum Zugriff auf Konkonrdanzen
+ 
+ ## Praxisteil
+ 
+ * Mapping erstellen (langsam stellen)
+ 
+ ## Ausblick
+ 
+ * Wir sind ansprechbar
+ * Eigene Workshops per Video / Webinar für einzelne Einrichtungen
+ * Review-Verfahren
+
+# Weitere Informationen
+
+* Projektseite
+* Handout
+* git-repository
+* ...
