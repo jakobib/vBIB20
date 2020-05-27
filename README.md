@@ -40,13 +40,14 @@ Das Projekt coli-conc sammelt Konkordanzen zwischen Erschließungssystemen wie R
  
  ## Ausblick
  
- * Wir sind ansprechbar
+ * Wir sind ansprechbar!
  * Eigene Workshops per Video / Webinar für einzelne Einrichtungen
  * Review-Verfahren
+ * [Integration von WinIBW und Cocoda](https://github.com/gbv/cocoda-winibw)
 
 # Weitere Informationen
 
-* Projektseite
-* Handout
-* git-repository
+* [Projektseite](https://coli-conc.gbv.de/)
+* [Handout](https://coli-conc.gbv.de/cocoda/user-manual-de-book.pdf)
+* [git-repository](https://github.com/gbv/cocoda) mit [issue-Tracker](https://github.com/gbv/cocoda/issues)
 * ...
